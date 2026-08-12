@@ -23,5 +23,9 @@ Aplikasi Point of Sales (POS) berbasis web yang dibangun menggunakan **Laravel**
 6. **Migrate database**: `php artisan migrate --seed`
 7. **Jalankan server**: `php artisan serve`
 
+## Akun dummy
+email : budi@kantinnabila.com
+pass : password123
+
 ---
 *Dibuat untuk kebutuhan pengembangan portofolio sistem informasi.*
