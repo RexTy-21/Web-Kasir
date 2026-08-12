@@ -24,8 +24,13 @@ Aplikasi Point of Sales (POS) berbasis web yang dibangun menggunakan **Laravel**
 7. **Jalankan server**: `php artisan serve`
 
 ## Akun dummy
+### kasir
 email : budi@kantinnabila.com
 pass : password123
+
+### Admin
+email : admin@kantinnabila.com
+pass : admin123
 
 ---
 *Dibuat untuk kebutuhan pengembangan portofolio sistem informasi.*
